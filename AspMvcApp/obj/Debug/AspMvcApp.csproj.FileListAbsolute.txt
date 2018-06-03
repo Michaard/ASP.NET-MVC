@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\Visual Studio Projects\AspMvcApp\AspMvcApp\bin\AspMvcApp.dll
+C:\Users\Administrator\Desktop\Visual Studio Projects\AspMvcApp\AspMvcApp\bin\AspMvcApp.pdb
+C:\Users\Administrator\Desktop\Visual Studio Projects\AspMvcApp\AspMvcApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Visual Studio Projects\AspMvcApp\AspMvcApp\obj\Debug\AspMvcApp.dll
+C:\Users\Administrator\Desktop\Visual Studio Projects\AspMvcApp\AspMvcApp\obj\Debug\AspMvcApp.pdb
